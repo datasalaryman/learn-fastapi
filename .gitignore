@@ -1,0 +1,2 @@
+./.venv/**
+./learn_fastapi/__pycache__/**
